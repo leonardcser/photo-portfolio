@@ -1,0 +1,9 @@
+@import "@styles/variables";
+
+.header {
+    position: fixed;
+    height: $header-h;
+    padding: 0 4rem;
+    z-index: 100;
+    width: 100%;
+}

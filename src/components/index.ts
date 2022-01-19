@@ -1,4 +1,4 @@
-export { Header } from "./header";
+export { Header } from "./navigation/Header";
 export { Logo } from "./logo";
 export { Main } from "./main";
 export { Button } from "./button";
